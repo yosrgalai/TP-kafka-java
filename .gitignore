@@ -1,0 +1,15 @@
+# Java
+target/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Kafka (important)
+kafka/
+kafka-data/
+
+# Logs
+*.log
